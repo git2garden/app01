@@ -1,2 +1,2 @@
 # app01
-just lear git, github, gitlab
+just learn git, github, gitlab
